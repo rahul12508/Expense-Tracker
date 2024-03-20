@@ -1,0 +1,27 @@
+*{
+    margin: 0; padding: 0;
+}
+ 
+
+ nav{
+    min-height: 0px;
+    width: 600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  margin-left: 30%;
+ }
+
+  nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 10px;
+  height: 40px;
+  }
+
+   nav ul  li{
+    list-style: none;
+    text-align: center;
+    font-size: 20px;
+   
+   }

@@ -1,0 +1,61 @@
+
+ .container2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+    height: 200px;
+    width: 100vw;
+    flex: 1;
+ }
+
+  .income{
+    height: 150px;
+    width: 50vw;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  
+  }
+
+  .expense{
+    width: 50vw;
+    background-color: blueviolet;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+  .expense p{
+    font-size: 25px;
+    margin-left: 350px;
+    font-weight: bold;
+    color: white;
+  }
+
+  .expense h6{
+    font-size: 25px;
+    margin-left: 50px;
+    font-weight: bold;
+    color: white;
+
+  }
+
+  .income p{
+    font-size: 20px;
+    margin-left: 30px;
+    margin-right: 50px;
+    font-weight: bold;
+    color: black;
+  }
+   
+  .income h6{
+    font-size: 25px;
+    margin-left: 50px;
+    font-weight: bold;
+  }
+
+  
