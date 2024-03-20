@@ -1,0 +1,24 @@
+
+.balance{
+    background-color: rgb(27, 155, 198);
+    color: white;
+    width: 100vw;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+
+ .balance h6{
+    position: absolute;
+    left: 200px;
+    font-size: 25px;
+    font-weight: bold;
+ }
+
+ .balance p{
+    padding-right: 150px;
+ }
